@@ -2,6 +2,8 @@
 
 <img width="300" height="100" data-canonical-src="https://lh4.googleusercontent.com/25xhvxsybjs5Qi4EuYZmdVCeXUfrcg0xMXuJQi2mAorpd-TpL9oUAu7pLnotaXK8-i4zA4dQ" src="https://lh4.googleusercontent.com/25xhvxsybjs5Qi4EuYZmdVCeXUfrcg0xMXuJQi2mAorpd-TpL9oUAu7pLnotaXK8-i4zA4dQ">
 
+<img width="300" height="100" data-canonical-src="https://lh4.googleusercontent.com/25xhvxsybjs5Qi4EuYZmdVCeXUfrcg0xMXuJQi2mAorpd-TpL9oUAu7pLnotaXK8-i4z4dQ" src="https://lh4.googleusercontent.com/25xhvxsybjs5Qi4EuYZmdVCeXUfrcg0xMXuJQi2mAorpd-TpL9oUAu7pLnotaXK8-i4z4dQ">
+
 ## Användning av detta repot
 
 Se [den här repot](https://github.com/benhamner/hillary-clinton-emails.git) för diverse scripts som använts på email-datan från grunden.
