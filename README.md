@@ -1,30 +1,30 @@
-# Analytics PUB den 13 april -16
+# Analytics PUB den 13 april -16 ![ffcg](https://lh4.googleusercontent.com/5xhvxsybjs5Qi4EuYZmdVCeXUfrcg0xMXuJQi2mAorpd-TpL9oUAu7pLnotaXK8-i4z4dQ)
 
-## Användning av detta subrepot
+## AnvÃ¤ndning av detta repot
 
-Se [den här repot](https://github.com/benhamner/hillary-clinton-emails.git) för diverse scripts som använts på email-datan från grunden.
+Se [den hÃ¤r repot](https://github.com/benhamner/hillary-clinton-emails.git) fÃ¶r diverse scripts som anvÃ¤nts pÃ¥ email-datan frÃ¥n grunden.
 
 ## Strukturen
 
 ```
 +-- data
-¦   +-- original
-¦   ¦   +-- Aliases.csv
-¦   ¦   +-- EmailReceivers.csv
-¦   ¦   +-- Emails.csv
-¦   ¦   +-- Persons.csv
-¦   ¦   +-- databases.sqlite
-¦   ¦   +-- hashes.txt
-¦   +-- generated
-¦       +-- Candidates.json
-¦       +-- US_states.json
+Â¦   +-- original
+Â¦   Â¦   +-- Aliases.csv
+Â¦   Â¦   +-- EmailReceivers.csv
+Â¦   Â¦   +-- Emails.csv
+Â¦   Â¦   +-- Persons.csv
+Â¦   Â¦   +-- databases.sqlite
+Â¦   Â¦   +-- hashes.txt
+Â¦   +-- generated
+Â¦       +-- Candidates.json
+Â¦       +-- US_states.json
 +-- scripts
 	+-- databases.sqlite.sql
 ```
 
 ## Datan
 
-Från [Kaggle.com/hillary-clinton-emails](https://www.kaggle.com/kaggle/hillary-clinton-emails) kan man få originaldata kring Hillary Clintons emails. Dessa är också upplagda här under `/data`.
+FrÃ¥n [Kaggle.com/hillary-clinton-emails](https://www.kaggle.com/kaggle/hillary-clinton-emails) kan man fÃ¥ originaldata kring Hillary Clintons emails. Dessa Ã¤r ocksÃ¥ upplagda hÃ¤r under `/data`.
 
 
 ### Aliases.csv
