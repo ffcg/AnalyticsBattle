@@ -24,6 +24,8 @@ Vänligen [OSA senast torsdag den 7 april](https://docs.google.com/forms/d/1J_BS
 
 ## Användning av detta repot
 
+### Originaldata
+
 Se [den här repot](https://github.com/benhamner/hillary-clinton-emails.git) för diverse scripts som använts på email-datan från grunden.
 
 ## Strukturen
@@ -114,6 +116,6 @@ This file is a string literal of all of the American states. Also includes abbre
 
 ## Leverantörer
 
-<a src="www.google.se">![Gavagai](https://lh6.googleusercontent.com/WlyyNWi2y0f2767vL8786N_B0aeKWTogP0ttAdaz9Tzj7ZvD5ifkqXqzWUf08bd-C7S8lQ)</a>
+![Gavagai](https://lh6.googleusercontent.com/WlyyNWi2y0f2767vL8786N_B0aeKWTogP0ttAdaz9Tzj7ZvD5ifkqXqzWUf08bd-C7S8lQ)
 ![Microsoft](https://lh4.googleusercontent.com/6IyGBSy89kzKKRc5gaog8eCY42_47u_-g9eChZVoW398Aswbbtw2VbRIQFxVgfTsWbEgOg)
 ![SAS](https://lh4.googleusercontent.com/INqn118wdUaCVDhg8fYNioTTuQziqfIAOAZR4x4IuiUqMh9ieyh7XgbQ68L9JEIIxkqxxw)
