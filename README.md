@@ -18,7 +18,8 @@ Detta får ni inte missa!
 
 Vänligen [OSA senast torsdag den 7 april](https://docs.google.com/forms/d/1J_BSyP-ht4a0FXE0Zhta7UlXggg9ymGQZJuht0TzW1Q/viewform?c=0&w=1). 
 
-<img width="250" height="250" src="https://camo.githubusercontent.com/bdfbbb86d57fb2a321b81156f7b3749d44197fc2/68747470733a2f2f6c68362e676f6f676c6575736572636f6e74656e742e636f6d2f576c79794e57693279306632373637764c383738364e5f423061654b57546f67503074744164617a39547a6a375a76443569666b7158717a575566303862642d433753386c51" data-canonical-src="https://lh6.googleusercontent.com/WlyyNWi2y0f2767vL8786N_B0aeKWTogP0ttAdaz9Tzj7ZvD5ifkqXqzWUf08bd-C7S8lQ" />
+<!--<img width="250" height="250" src="https://camo.githubusercontent.com/bdfbbb86d57fb2a321b81156f7b3749d44197fc2/68747470733a2f2f6c68362e676f6f676c6575736572636f6e74656e742e636f6d2f576c79794e57693279306632373637764c383738364e5f423061654b57546f67503074744164617a39547a6a375a76443569666b7158717a575566303862642d433753386c51" data-canonical-src="https://lh6.googleusercontent.com/WlyyNWi2y0f2767vL8786N_B0aeKWTogP0ttAdaz9Tzj7ZvD5ifkqXqzWUf08bd-C7S8lQ" />-->
+![Gavagai](https://lh6.googleusercontent.com/WlyyNWi2y0f2767vL8786N_B0aeKWTogP0ttAdaz9Tzj7ZvD5ifkqXqzWUf08bd-C7S8lQ)
 ![Microsoft](https://lh4.googleusercontent.com/6IyGBSy89kzKKRc5gaog8eCY42_47u_-g9eChZVoW398Aswbbtw2VbRIQFxVgfTsWbEgOg)
 ![SAS](https://lh4.googleusercontent.com/INqn118wdUaCVDhg8fYNioTTuQziqfIAOAZR4x4IuiUqMh9ieyh7XgbQ68L9JEIIxkqxxw)
 
