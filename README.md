@@ -1,8 +1,13 @@
-# <img width="300" height="100" src="https://camo.githubusercontent.com/0b620ce36d82944a4cd0f59cdfea477b36f50964/68747470733a2f2f6c68342e676f6f676c6575736572636f6e74656e742e636f6d2f35786876787379626a73355169344575595a6d6456436558556672636730784d58754a5169326d416f7270642d54704c396f55417537704c6e6f7461584b382d69347a346451" data-canonical-src="https://lh4.googleusercontent.com/35xhvxsybjs5Qi4EuYZmdVCeXUfrcg0xMXuJQi2mAorpd-TpL9oUAu7pLnotaXK8-i4z4dQ" /> <br/> Analytics PUB den 13 april -16 
+# Analytics PUB den 13 april -16 
 
 **Varmt Välkomna till Forefronts nästa kompetensevent!**
+
+<img width="300" height="100" src="https://camo.githubusercontent.com/0b620ce36d82944a4cd0f59cdfea477b36f50964/68747470733a2f2f6c68342e676f6f676c6575736572636f6e74656e742e636f6d2f35786876787379626a73355169344575595a6d6456436558556672636730784d58754a5169326d416f7270642d54704c396f55417537704c6e6f7461584b382d69347a346451" data-canonical-src="https://lh4.googleusercontent.com/35xhvxsybjs5Qi4EuYZmdVCeXUfrcg0xMXuJQi2mAorpd-TpL9oUAu7pLnotaXK8-i4z4dQ" /> <br/>
+
 > Datum: Onsdag den 13 april
+
 > Tid: Klockan 17:30
+
 > Plats: Forefront Consulting Group. Holländargatan 13, våning 5
 
 **Nu** startar vi även upp våra populära kompetenspubar inom området Analytics. Ämnet för kvällen är ”Möjligheter med textanalys”. Vi kommer att belysa vilken nytta man kan uppnå med textanalys samt presentera resultatet av en jämförelse som vi gjort mellan Gavagais, MS och SAS verktyg. Förutom intressanta presentationer bjuder vi på trevligt mingel samt mat och dryck. 
