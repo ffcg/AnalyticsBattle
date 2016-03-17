@@ -18,6 +18,10 @@ Detta får ni inte missa!
 
 Vänligen [OSA senast torsdag den 7 april](https://docs.google.com/forms/d/1J_BSyP-ht4a0FXE0Zhta7UlXggg9ymGQZJuht0TzW1Q/viewform?c=0&w=1). 
 
+![Gavagai](https://lh6.googleusercontent.com/WlyyNWi2y0f2767vL8786N_B0aeKWTogP0ttAdaz9Tzj7ZvD5ifkqXqzWUf08bd-C7S8lQ)
+![Microsoft](https://lh4.googleusercontent.com/6IyGBSy89kzKKRc5gaog8eCY42_47u_-g9eChZVoW398Aswbbtw2VbRIQFxVgfTsWbEgOg)
+![SAS](https://lh4.googleusercontent.com/INqn118wdUaCVDhg8fYNioTTuQziqfIAOAZR4x4IuiUqMh9ieyh7XgbQ68L9JEIIxkqxxw)
+
 ---
 
 ## Användning av detta repot
