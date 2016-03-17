@@ -1,4 +1,6 @@
-# Analytics PUB den 13 april -16 ![ffcg](https://lh4.googleusercontent.com/5xhvxsybjs5Qi4EuYZmdVCeXUfrcg0xMXuJQi2mAorpd-TpL9oUAu7pLnotaXK8-i4z4dQ)
+# Analytics PUB den 13 april -16 
+
+<img width="300" height="100" src="https://lh4.googleusercontent.com/5xhvxsybjs5Qi4EuYZmdVCeXUfrcg0xMXuJQi2mAorpd-TpL9oUAu7pLnotaXK8-i4zA4dQ">
 
 ## Användning av detta repot
 
